@@ -2,5 +2,5 @@ READMEFILE
 
 Dev line
 
-git alia
+git alias 1.2
 
