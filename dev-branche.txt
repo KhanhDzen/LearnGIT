@@ -1,2 +1,0 @@
-This is a dev branch for test
-Merge with master branch
