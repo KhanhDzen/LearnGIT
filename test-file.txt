@@ -10,5 +10,6 @@ Everything is GOOD!
 
 BAD (11 commit)
 
-git revert sh-1
+
+
 
